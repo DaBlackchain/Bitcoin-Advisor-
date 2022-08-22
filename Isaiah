@@ -1,1 +1,15 @@
+total_btc_coins_df= btc_coins_df.sum()
+total_sp_shares_df= sp_shares_df.sum()
 
+
+----
+
+MC_tenyear_sp= MCSimulation( portfolio_data = closing_prices_df, weights = [.20,.80],num_simulation= 500, num_trading_days= 252*10)
+MC_tenyear_sp.calc_cumulative_return()
+MC_sim_line_plot_ten_sp= MC_tenyear.plot_simulation()
+MC_summary_stats_ten_sp = MC_tenyear.summarize_cumulative_return()
+
+MC_tenyear_btc= MCSimulation( portfolio_data = closing_prices_df, weights = [.80,.20],num_simulation= 500, num_trading_days= 252*10)
+MC_tenyear_btc.calc_cumulative_return()
+MC_sim_line_plot_ten_btc= MC_tenyear.plot_simulation()
+MC_summary_stats_ten_btc = MC_tenyear.summarize_cumulative_return()
