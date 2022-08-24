@@ -28,7 +28,7 @@ With a combined portfolio of both cryptocurrency and stock, the total value of t
 
 ![image](https://user-images.githubusercontent.com/34729547/186520932-4cecb670-3d28-40d6-89a6-f15b6485c350.png)
 
-When analyzing the performance of the 10-year aggressive investment, the cryptocurrency was weighted by 80%, and the stock was weighted by 40%. There is a 95% chance that an initial investment of $1800 in the portfolio over the next 10 years will end within the range of $1187.45 and $1,666,283.18.
+When analyzing the performance of the 10-year aggressive investment, the cryptocurrency was weighted by 80%, and the stock was weighted by 20%. There is a 95% chance that an initial investment of $1800 in the portfolio over the next 10 years will end within the range of $1187.45 and $1,666,283.18.
 
 ![image](https://user-images.githubusercontent.com/34729547/186521815-95ef8f58-a839-42a2-9d86-24eecaeed047.png)
 
