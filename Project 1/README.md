@@ -50,7 +50,7 @@ YFinance API
 
 ---
 
-## Usage:
+## Usage: python investor_advisor.py
 ---
 
 Ensure the proper libraries and dependencies have been imported.
